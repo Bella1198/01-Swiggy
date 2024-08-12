@@ -1,0 +1,195 @@
+body{
+    margin: 0;
+    font-family: "Poppins", sans-serif;
+    font-stretch: extra-expanded;
+    
+}
+.navbar{
+    box-shadow: 5px 0.5px 20px lightgray;
+    overflow: hidden;
+}
+.left{
+    padding: 15px;
+    float: left;
+    margin-left: 140px;
+    font-weight: bold;
+}
+.logo{
+    margin-right: 30px;
+}
+.other-opt{
+    color: black;
+    font-size: 12px;
+    margin-right: 20px;
+}
+.other{
+    align-items: center;
+    
+}   
+
+.right li{
+    display: block;
+    float: right;
+    padding: 15px;
+    font-family: "Poppins", sans-serif;
+    font-size: 15px; 
+}
+
+.right{
+    text-align: right;
+    margin-right: 140px;
+}
+.dishes{
+    height: 270px;
+    width: 75%;
+    margin: auto;
+    border-bottom: 1px solid lightgray;
+}
+h2{
+    font-weight: bold;
+}
+#pothichoru{
+    height: 190px;
+}
+.dishes ul li{
+    list-style-type: none;
+    float: left;
+}
+.top-restaurants{
+    height: 400px;
+    width: 75%;
+    margin: auto;
+    border-bottom: 1px solid lightgray;
+}
+.top-restaurants h3{
+    margin-top: 0;
+    font-size: medium;
+}
+.icon{
+    height: 20px;
+}
+.rating{
+    display: flex;
+}
+.time{
+    margin-top: 0;
+    margin-left: 10px;
+}
+.type{
+    margin-top: 0;
+    line-height: 0;
+    font-weight: 300;
+    color: darkslategray;
+}
+.loc{
+    margin-top: 0;
+    line-height: 0;
+    font-weight: 300;
+    color: darkslategray;
+}
+.resto{
+    display: flex;
+}
+.food{
+    margin-right: 40px;
+}
+.online-food{
+    height: 1200px;
+    width: 75%;
+    margin: auto;
+    border-bottom: 1px solid lightgray;
+}
+.buttons{
+    margin-bottom: 30px;
+    font-family: "Poppins", sans-serif;
+    margin-right: 10px;
+    border-radius: 30px;
+    border: 1px solid lightgrey;
+    background-color: white;
+    padding: 5px 10px;
+}
+.resto-options{
+    height: 1050px;
+    width: 75%;
+    margin: auto;
+}
+.resto-options button{
+    margin-bottom: 30px;
+    font-family: "Poppins", sans-serif;
+    margin-right: 25px;
+    border-radius: 10px;
+    border: 1px solid lightgrey;
+    background-color: white;
+    padding: 15px 20px;
+    font-size: medium;
+}
+#google{
+    height: 70px;
+    width: 200px;
+    margin-right: 20px;
+}
+#appstore{
+    height: 70px;
+    width: 200px;
+}
+.bottom{
+    width: 100%;
+    background-color: rgba(245, 245, 245, 0.881);
+}
+.centre{
+    width: 60%;
+    margin: auto;
+    display: flex;
+}
+.image{
+    display: flex;
+    margin: 20px;
+}
+.centre h2{
+    font-size: 25px;
+}
+.txt{
+    color: darkslategrey;
+}
+.foot{
+    background-color: black;
+    width: 100%;
+}
+.middle{
+    width: 60%;
+    margin: auto;
+    display: flex;
+}
+.font h2{
+    color: white;
+}
+.font h3{
+    color: grey;
+    font-weight: normal;
+    font-size: 16px;
+    margin-top: 0;
+}
+.swiggy{
+    display: flex;
+    margin-bottom: 0;
+}
+.swiggy svg{
+    margin-top: 20px;
+    margin-right: 10px;
+}
+.font{
+    width: 240px;
+}
+.company{
+    width: 240px;
+}
+.foot ul{
+    list-style-type: none;
+}
+.foot li{
+    color: grey;
+}
+.title{
+    color: white;
+    size: 20px;
+}
